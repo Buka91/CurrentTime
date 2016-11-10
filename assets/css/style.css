@@ -1,0 +1,30 @@
+@font-face{
+ font-family: digital-clock-font;
+ src: url(digital-7.ttf);
+}
+
+body {
+    background-color: steelBlue;
+}
+
+div {
+    width: 50%;
+    margin-left: 25%;
+}
+
+h1 {
+    font-family: 'Roboto Condensed', sans-serif;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+}
+
+p {
+    font-family: digital-clock-font;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+}
